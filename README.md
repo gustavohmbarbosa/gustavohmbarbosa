@@ -3,7 +3,7 @@
 
 - 📚 Estudando em uma escola técnica.
 - 👨‍💻 Estagiando em uma empresa.
-- 📧 Entre em contato comigo: *gustavohmbarbosa-18@hotmail.com*.
+- 📧 Entre em contato comigo: *gustavobarbosa-18@hotmail.com*.
 
 <h3 align="center">Status GitHub</h3>
 <p align="center">
