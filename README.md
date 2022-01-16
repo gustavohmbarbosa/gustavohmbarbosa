@@ -1,10 +1,6 @@
 <h1 align="center">Opaa, Gustavo aqui 🤘</h1>
 <p align="center">Conheci um mundo novo, confesso: foi paixão a primeira vista. E hoje é amor 🌐🖤</p>
 
-- 📚 Estudando em uma escola técnica.
-- 👨‍💻 Estagiando em uma empresa.
-- 📧 Entre em contato comigo: *gustavobarbosa-18@hotmail.com*.
-
 <h3 align="center">Status GitHub</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gustavohmbarbosa&show_icons=true&theme=dark">
